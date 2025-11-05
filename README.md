@@ -4,9 +4,9 @@ A comprehensive guide to machine learning approaches for stock market prediction
 
 [![A Danny Blaker project badge](https://github.com/dannyblaker/dannyblaker.github.io/blob/main/danny_blaker_project_badge.svg)](https://github.com/dannyblaker/)
 
-**LIABILITY DISCLAIMER: This project is provided for educational and research purposes only. It does not constitute financial advice, and the author makes no guarantees about the accuracy, completeness, or suitability of the results produced by this code. By using this repository, you agree that the author is not liable for any financial losses or decisions made based on its use. 
+**LIABILITY DISCLAIMER: This project is provided for educational and research purposes only. It does not constitute financial advice, and the author makes no guarantees about the accuracy, completeness, or suitability of the results produced by this code. By using this repository, you agree that the author is not liable for any financial losses or decisions made based on its use.** 
 
-Stock market prediction is extremely challenging. Use these tools responsibly and always validate approaches thoroughly before any real-world application. **
+Stock market prediction is extremely challenging. Use these tools responsibly and always validate approaches thoroughly before any real-world application.
 
 ## 📚 Overview
 
